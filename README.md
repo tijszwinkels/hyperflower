@@ -1,5 +1,7 @@
 # Hyperflower
 
+![Animated Hyperflower preview: rainbow petals twisting into a glowing tunnel](assets/hyperflower.webp)
+
 A psychedelic GPU flower: rainbow tunnels, kaleidoscopic petals, and glowing fractal-like detail.
 Run it in Hyprsaver or in the browser.
 
